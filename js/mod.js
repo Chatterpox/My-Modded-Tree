@@ -2,7 +2,7 @@ let modInfo = {
 	name: "Eternum Tree",
 	id: "eternumchatterpox",
 	author: "Chatterpox",
-	pointsName: "points",
+	pointsName: "Cosmic Potential",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
